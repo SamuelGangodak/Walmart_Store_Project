@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "map.h": "c",
+        "store_management.h": "c"
+    }
+}
