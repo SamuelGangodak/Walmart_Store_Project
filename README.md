@@ -9,9 +9,9 @@
 This project exemplifies the administration of a Walmart store by leveraging data structures such as arrays and linked lists.
 ## Program Structure 
 ### File Description
-* Store_Management.h : Facilitates the addition, deletion, and inspection of items and aisles.
-* CustomerInvoice.h : Assists in generating a bill for the user.
-* Map.h : Utilizes a two-dimensional array to maintain the frequency of purchases for each item.
+- **Store_Management.h** : Facilitates the addition, deletion, and inspection of items and aisles.
+- **CustomerInvoice.h** : Assists in generating a bill for the user.
+- **Map.h** : Utilizes a two-dimensional array to maintain the frequency of purchases for each item.
 ## Implementation Scope : 
 This system serves as a comprehensive solution for store management.
 ## Usage
